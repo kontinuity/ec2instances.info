@@ -6,6 +6,8 @@ I was sick of comparing EC2 instance metrics and pricing on Amazon's site so I m
 ### Project status
 
 [![Build Status](https://travis-ci.org/powdahound/ec2instances.info.svg)](https://travis-ci.org/powdahound/ec2instances.info)
+![Custom badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fbfny5hk1m8.execute-api.ap-south-1.amazonaws.com%2Fdev%2Fs%3Fgh_repo_name%3Dkontinuity%252Fec2instances.info)
+
 
 I'm actively maintaining the site with the help of contributors here, but am not working on large new features.
 
